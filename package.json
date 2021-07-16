@@ -12,6 +12,9 @@
     "repository": {
         "url": "https://github.com/theacode/snippets-for-sv"
     },
+    "extensionDependencies": [
+        "redhat.vscode-yaml"
+    ],
     "publisher": "theacode",
     "contributes": {
         "snippets": [
