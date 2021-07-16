@@ -10,7 +10,8 @@
         "Snippets"
     ],
     "repository": {
-        "url": "https://github.com/theacode/snippets-for-sv",
+        "url": "https://github.com/theacode/snippets-for-sv"
+    },
     "publisher": "theacode",
     "contributes": {
         "snippets": [
