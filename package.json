@@ -9,6 +9,7 @@
     "categories": [
         "Snippets"
     ],
+    "publisher": "theacode",
     "contributes": {
         "snippets": [
             {
